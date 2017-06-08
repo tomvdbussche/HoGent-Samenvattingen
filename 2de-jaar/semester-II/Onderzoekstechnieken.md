@@ -14,20 +14,20 @@ link: https://robinmalfait.com/2de-jaar/semester-II/Onderzoekstechnieken.md
 
 > **Wetenschappelijke methode** ![](https://robinmalfait.com/afbeeldingen/droplr/1cqTO.png)
 
-## Hoe vergaren we kennis?
+## 1.1 De wetenschappelijke methode
 
-* Niet-wetenschappelijke methode
-    - "Mijn buikgevoel zegt van wel"
-    - "Mijn vader zegt van wel, dus moet het wel"
-    - "Er zijn verschillende beelden van UFO's en dus kan het niet anders"
-    - "Ik heb het gelezen op het Internet!"
-* Wetenschappelijke methode
-    - "Er zijn veel planeten"
-    - "Moleculen nodig voor het leven vind je overal"
-    - => "Dus ik zou verwonderd zijn indien er geen leven is"
-    - **Maar er is nog geen bewijs voor**
+### Niet-wetenschappelijk
 
-## De Wetenschappelijke methode
+> **Autoritair** Iemand wordt in een bepaald gebied als autoritair aanschouwd.
+>
+> **Deductief** Het trekken van conclusies uit een gegeven set van veronderstellingen. De waarheid van de conclusies hangt hier af van de waarheid van de veronderstellingen, die niet empirisch onderzocht zijn dus niet betrouwbaar zijn.
+
+- "Mijn buikgevoel zegt van wel"
+- "Mijn vader zegt van wel, dus moet het wel"
+- "Er zijn verschillende beelden van UFO's en dus kan het niet anders"
+- "Ik heb het gelezen op het Internet!"
+
+### Wetenschappelijk
 
 Aan de hand van **empirisch onderzoek** zijn we geïnteresseerd in volgende zaken:
 
@@ -40,14 +40,36 @@ Aan de hand van **empirisch onderzoek** zijn we geïnteresseerd in volgende zake
 3. Voorspelling
 4. Controle
 
+#### Onderzoeksdoelstellingen
 
-- Generalisatie
-    - BV.: "Agressie komt vaak voor in deze bevolkingsgroep"
-- Verstaan, begrijpen
-    - Er is een verband tussen frustratie en agressie
-    - Theorieontwikkeling
+> **Generalisatie** Onderzoek doen op een bepaalde, beperkte groep van de totale groep (*populatie*). Als conclusies voor die subgroep ook gelden voor de totale groep dan hebben we een correcte generalisatie gevonden.
+>
+> **Specialisatie** Toepassen van algemene kennis op een specifiek domein of probleem.
 
-## Het onderzoeksproces
+## 1.2 Basisconcepten in onderzoek
+
+> **Variabele** Algemene eigenschap van een object waardoor we objecten van elkaar kunnen onderscheiden
+>
+> **Waarde** Specifieke eigenschap, invulling voor die variabele
+
+### Meetniveaus
+
+#### Kwalitatieve schalen:
+
+- **Nominaal** Er is slechts keuze uit een beperkt aantal categorieën, waarbij geen volgorde aanwezig is tussen de antwoorden. `Categorieën`. Bv.: Geslacht, ras, land, vorm, ...
+- **Ordinaal** Een variabele die is ingedeeld in categorieën, waar er echter wel een logische volgorde is tussen de categorieën. `Volgorde`. Bv.: militaire rang, opleidingsniveau, ...
+
+#### Kwantitatieve schalen:
+
+- **Interval** Variabelen die niet in categorieën voorkomen, en waarbij berekeningen kunnen mee uitgevoerd worden, maar zonder nulpunt. Meting: getal + meeteenheid, nulpunt niet belangrijk.
+
+    bv.: 20°C - 15°C = 5°C, maar 20°C is *NIET* 1/3 warmer dan 15°C
+
+- **Ratio** Intervalniveau met nulpunt. Je kunt hierdoor verhoudingen berekenen tussen verschillende waarden op de schaal. Meting t.o.v. absoluut nulpung.
+
+    bv.: Afstand (m), enregie (J), massa (kg), ... BV.: 20m is *wel* 1/3 langer dan 15m
+
+### Het onderzoeksproces
 
 1. Formuleren probleemstelling
     * Wat is de onderzoeksvraag
@@ -62,46 +84,7 @@ Aan de hand van **empirisch onderzoek** zijn we geïnteresseerd in volgende zake
 6. Conclusies schrijven
     * Schrijven onderzoeksverslag
 
-## Variabelen en waarden
-
-> **Variabele** Algemene eigenschap van een object waardoor we objecten van elkaar kunnen onderscheiden
->
-> **Waarde** Specifieke eigenschap, invulling voor die variabele
-
-## Meetniveaus
-
-### Kwalitatieve schalen:
-
-- **Nominaal** Er is slechts keuze uit een beperkt aantal categorieën, waarbij geen volgorde aanwezig is tussen de antwoorden. `Categorieën`. Bv.: Geslacht, ras, land, vorm, ...
-- **Ordinaal** Een variabele die is ingedeeld in categorieën, waar er echter wel een logische volgorde is tussen de categorieën. `Volgorde`. Bv.: militaire rang, opleidingsniveau, ...
-
-### Kwantitatieve schalen:
-
-- **Interval** Variabelen die niet in categorieën voorkomen, en waarbij berekeningen kunnen mee uitgevoerd worden, maar zonder nulpunt. Meting: getal + meeteenheid, nulpunt niet belangrijk.
-
-    bv.: 20°C - 15°C = 5°C, maar 20°C is *NIET* 1/3 warmer dan 15°C
-
-- **Ratio** Intervalniveau met nulpunt. Je kunt hierdoor verhoudingen berekenen tussen verschillende waarden op de schaal. Meting t.o.v. absoluut nulpung.
-
-    bv.: Afstand (m), enregie (J), massa (kg), ... BV.: 20m is *wel* 1/3 langer dan 15m
-
-## Verbanden tussen variabelen
-
-Er is een verband tussen variabelen als hun waarden **systematisch** veranderen.
-
-| Afbeelding 1 | Afbeelding 2 |
-| :----------: | :----------: |
-| ![](https://robinmalfait.com/afbeeldingen/droplr/1lnWx.png) | ![](https://robinmalfait.com/afbeeldingen/droplr/Eszm.png) |
-
-### Verbanden tussen variabelen: voorbeeld
-
-| &nbsp; | Pepsi  | Coca Cola | Totaal |
-| -----: | :----: | :-------: | :----: |
-| Lekker | 56 | 24 | 80 |
-| Niet Lekker | 14 | 6 | 20 |
-| Totaal | 70 | 30 | 100 |
-
-## Oorzakelijke Verbanden
+##### Oorzakelijke Verbanden
 
 We zijn vooral op zoek naar **oorzakelijke verbanden**, bv.
 
@@ -119,6 +102,22 @@ We zijn vooral op zoek naar **oorzakelijke verbanden**, bv.
 - Vaccinaties leiden tot autisme
 - Correlatie tussen drinken van Cola-light en zwaarlijvigheid
 - ...
+
+#### Verbanden tussen variabelen
+
+Er is een verband tussen variabelen als hun waarden **systematisch** veranderen.
+
+| Afbeelding 1 | Afbeelding 2 |
+| :----------: | :----------: |
+| ![](https://robinmalfait.com/afbeeldingen/droplr/1lnWx.png) | ![](https://robinmalfait.com/afbeeldingen/droplr/Eszm.png) |
+
+##### Verbanden tussen variabelen: voorbeeld
+
+| &nbsp; | Pepsi  | Coca Cola | Totaal |
+| -----: | :----: | :-------: | :----: |
+| Lekker | 56 | 24 | 80 |
+| Niet Lekker | 14 | 6 | 20 |
+| Totaal | 70 | 30 | 100 |
 
 # 2. Analyse op 1 variabele
 
